@@ -30,12 +30,14 @@ Note: Ensure that the values read in are appropriately cast to their respective 
    - Sort these records by that new metric, in ascending order.
    - Store the output file out as a JSON format, for a **commute.json** file.
 
+___
+
 ### Data Visualisation (20%)
 Your client wishes to understand the data they have on their customers a bit more by use of visualisations. With use of Pandas and Seaborn read in the original CSV file provided with the assignment.
 1. Obtain the Data Series for Salary, and Age, and calculate the following:
    - Mean Salary 
    - Median Age
-2. Perform univariate plots of the following data attributes:
+2. Perform uni variate plots of the following data attributes:
    - Age, calculating how many bins would be required for a bin_width of 5. 
    - Dependents, fixing data errors with seaborn itself. 
    - Age (of default bins), conditioned on Marital Status
