@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="a7e68bb2-6154-4174-b095-5f406aea87ad" name="Changes" comment="Updating Content">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-771768.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-771768.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/age_distribution.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/age_vs_salary_dependents.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commute_vs_salary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependents_distribution.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,22 +28,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "reeyan-afzal"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;reeyan-afzal&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/reeyan-afzal/ProgDSAI_ACW.git",
-    "accountId": "1b339c28-d7eb-4ff5-b44d-bdefcd6210fc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/reeyan-afzal/ProgDSAI_ACW.git&quot;,
+    &quot;accountId&quot;: &quot;1b339c28-d7eb-4ff5-b44d-bdefcd6210fc&quot;
   }
+}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
 }]]></component>
+  <component name="ProjectId" id="2oow76LOR6K9GWbyBEm6pS1yBsI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main"
   }
@@ -47,6 +62,14 @@
       <recent name="$PROJECT_DIR$/documentation" />
     </key>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -71,6 +94,13 @@
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1731530035503</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7e68bb2-6154-4174-b095-5f406aea87ad" name="Changes" comment="Updating Content" />
+      <created>1731549068248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731549068248</updated>
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />

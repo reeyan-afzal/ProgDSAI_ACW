@@ -46,3 +46,14 @@ Your client wishes to understand the data they have on their customers a bit mor
    - Age against Salary
    - Age against Salary conditioned by Dependants
 4. Your client would like the ability to save the plots which you have produced. Provide a Notebook cell which can do this.
+   - **Age Distribution:** A histogram of the age distribution is plotted and saved as age_distribution.png.
+![age_distribution.png](pngs/age_distribution.png)
+
+  - **Dependents Distribution:** A histogram showing the distribution of dependents is plotted and saved as dependents_distribution.png.
+![dependents_distribution.png](pngs/dependents_distribution.png)  
+
+  - **Commute Distance vs Salary:** A scatterplot that shows the relationship between commute distance and salary is generated and saved as commute_vs_salary.png.
+![commute_vs_salary.png](pngs/commute_vs_salary.png)
+
+  - **Age vs Salary by Dependents:** A scatterplot showing the relationship between age and salary, colored by the number of dependents, is plotted and saved as age_vs_salary_dependents.png.
+![age_vs_salary_dependents.png](pngs/age_vs_salary_dependents.png)
